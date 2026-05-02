@@ -1,4 +1,4 @@
-# Web Application Firewall Deployment and Evaluation
+# WEB APPLICATION FIREWALL (WAF) DEPLOYMENT
 
 **Author:** Muzan Abbas
 
